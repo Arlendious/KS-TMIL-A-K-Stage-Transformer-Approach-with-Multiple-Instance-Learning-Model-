@@ -1,1 +1,1 @@
-# KS-TMIL-A-K-Stage-Transformer-Approach-with-Multiple-Instance-Learning-Model-
+# KS-TMIL-A-K-Stage-Transformer-Approach-with-Multiple-Instance-Learning-Model
